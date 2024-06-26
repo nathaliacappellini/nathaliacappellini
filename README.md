@@ -2,7 +2,7 @@
 
 # 🌸 Nathalia Cappellini 
 
-<p align="justify">Hello, I am a student of Systems Analysis and Development at FATEC. <br> I have a great interest in technology, especially in AI, and I am starting my journey in the world of programming. Some of my favorite hobbies are gaming, reading, and cosplaying in my free time. <a href="https://www.instagram.com/clhoen/">(@clhoen)</a>.</p>
+<p align="justify">Hello, I am a student of Systems Analysis and Development at FATEC. <br> I have a great interest in technology, especially in AI, and I am starting my journey in the world of programming. Some of my favorite hobbies are gaming, reading, and cosplaying in my free time <a href="https://www.instagram.com/clhoen/">(@clhoen)</a>.</p>
 
 ### GitHub Stats 
 
