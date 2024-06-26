@@ -1,4 +1,4 @@
-<img align="right" alt="Work illustrations by Storyset - www.freepik.com" height="380" src="/assets/img/vector-dev.png">
+<img align="right" alt="Work illustrations by Storyset - www.freepik.com" height="350" src="/assets/img/vector-dev.png">
 
 # 🌸 Nathalia Cappellini 
 
