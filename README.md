@@ -12,15 +12,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliacappellini&theme=dracula&hide_title=true&layout=compact)](https://github.com/nathaliacappellini)-->
 
----
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=nathaliacappellini&icon=7&color=5&style=for-the-badge)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=nathaliacappellini&icon=7&color=5&style=for-the-badge)](https://visitcount.itsvg.in)-->
 
 <details align="left">
   <summary></summary> 
  
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - 💟 Badges by <a href="https://shields.io/">shields.io</a><br>
+  - 💟 GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
 
 </details>
