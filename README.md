@@ -1,6 +1,6 @@
 <img align="right" alt="Work illustrations by Storyset - www.freepik.com" height="350" src="/assets/img/vector-dev.png">
 
-<h1> 🌸 Nathalia Cappellini </h1>
+<h1 align="justify">🌸 Nathalia Cappellini</h1>
 
 <p align="justify">Hello, I am a student of Systems Analysis and Development at FATEC. <br> I have a great interest in technology, especially in AI, and I am starting my journey in the world of programming. Some of my favorite hobbies are gaming, reading, and cosplaying in my free time <a href="https://www.instagram.com/clhoen/">(@clhoen)</a>.</p>
 
