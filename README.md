@@ -7,7 +7,7 @@
 
 ### GitHub Stats 
 
-[![Nathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacappellini&theme=dracula&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&include_all_commits=true&line_height=25&border_radius=3)](https://github.com/nathaliacappellini)
+[![Nathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliacappellini&theme=dracula&hide_title=true&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&include_all_commits=true&line_height=25&border_radius=3)](https://github.com/nathaliacappellini)
 
 <!-- ### Most Used Languages
 
