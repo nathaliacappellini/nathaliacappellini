@@ -20,5 +20,4 @@
   <summary>More Info </summary> 
  
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Feito com 💗 por <a href="https://github.com/nathaliacappellini">Nathi</a>
 </details>
