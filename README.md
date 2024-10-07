@@ -3,7 +3,7 @@
 
 <img align="right" height="350px" alt="Work illustrations by Storyset - www.freepik.com" src="/assets/img/vector-dev.png">
 
-<p text-align="justify">Hello, I am a student of Systems Analysis and Development at FATEC. <br> I have a great interest in technology, especially in AI, and I am starting<br> my journey in the world of programming. Some of my favorite hobbies<br> are gaming, reading, and cosplaying in my free time <a href="https://www.instagram.com/clhoen/">(@clhoen)</a>.</p>
+<p text-align="justify"> ⊹ Olá, sou estudante de Análise e Desenvolvimento de Sistemas (2º ciclo) na FATEC. <br> Apaixonada por tecnologia e nos meus momentos de lazer, adoro jogar e alimentar <br> minha curiosidade, aprendendo e descobrindo coisas novas. ⊹ </p>
 
 ### GitHub Stats 
 
