@@ -3,7 +3,7 @@
 
 <img align="right" height="350px" alt="Work illustrations by Storyset - www.freepik.com" src="/assets/img/vector-dev.png">
 
-<p text-align="justify"> ⊹ Olá, sou estudante de Análise e Desenvolvimento de Sistemas (2º ciclo) na FATEC. Apaixonada por tecnologia e nos meus momentos de lazer, adoro jogar e alimentar minha curiosidade, aprendendo e descobrindo coisas novas. ⊹ </p>
+<p text-align="justify"> ⊹ Olá, sou estudante de Análise e Desenvolvimento de Sistemas (2º ciclo) <br> na FATEC. Apaixonada por tecnologia e nos meus momentos de lazer, adoro jogar e alimentar minha curiosidade, aprendendo e descobrindo coisas novas. ⊹ </p>
 
 <div align="justify">
   
