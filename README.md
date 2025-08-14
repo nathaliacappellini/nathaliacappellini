@@ -5,7 +5,7 @@
 <img align="right" height="350px" alt="Work illustrations by Storyset - www.freepik.com" src="/assets/img/vector-dev.png">
 
 <p align="justify">
-  ⊹ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º ciclo na FATEC. Apaixonada por tecnologia, gosto de explorar e aprender coisas novas. ⊹
+  ⊹ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º semestre na FATEC. Apaixonada por tecnologia, gosto de explorar e aprender coisas novas. ⊹
 </p>
 
 <div align="justify">
